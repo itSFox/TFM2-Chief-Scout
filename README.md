@@ -8,7 +8,7 @@ It analyzes players, free agents, transfer targets, role fit, potential, stats, 
 
 Recommended installation method:
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3741344550
+[Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3741344550)
 
 Use manual GitHub releases only if you need a specific mod build for a specific Teamfight Manager 2 game version.
 
@@ -21,7 +21,7 @@ Use manual GitHub releases only if you need a specific mod build for a specific 
 
 ## Manual releases
 
-Archived manual builds are available in the GitHub Releases section.
+Archived manual builds are available in [GitHub Releases](https://github.com/itSFox/TFM2-Chief-Scout/releases).
 
 Each release is named by both mod version and supported game version.
 
