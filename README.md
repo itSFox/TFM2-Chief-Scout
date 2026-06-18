@@ -16,7 +16,7 @@ Use manual GitHub releases only if you need a specific mod build for a specific 
 
 | Teamfight Manager 2 version | Chief Scout version | Status |
 |---|---:|---|
-| 0.4.12 rollback | [v1.0.4](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/1.0.4) | Stable |
+| 0.4.12 rollback | [v1.0.4](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v1.0.4) | Stable |
 | 0.4.13+ | Waiting for game-side UI fix | Known UI text regression |
 
 ## Manual releases
