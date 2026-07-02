@@ -30,6 +30,7 @@ The report was redesigned around a clearer scouting workflow and includes:
 * improved filters and sorting
 * improved localization strings
 * support for 14 languages
+
   Use this version if you are playing on **Teamfight Manager 2 0.4.14**.
   Release: [Download Chief Scout: HTML Report v2.0.0 for TFM2 0.4.14](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.0.0-tfm2-0.4.14)
 
