@@ -4,9 +4,9 @@ Chief Scout is a scouting helper mod for **Teamfight Manager 2** that helps you 
 
 It analyzes free agents, transfer targets, possible upgrades, your own roster, potential, stats, role fit, upgrade value, roster needs, archetypes, score breakdowns, and recommendation tags.
 
-The current live-compatible builds are **Chief Scout: Best Player Finder v2.1.0** and **Chief Scout: HTML Report v2.2.0** for **Teamfight Manager 2 0.5.7**.
+The current live-compatible builds are **Chief Scout: Best Player Finder v2.3.0** and **Chief Scout: HTML Report v2.3.0** for **Teamfight Manager 2 0.6.0**.
 
-Both current builds have been migrated to the new **Stable Mod API** for better long-term compatibility with future game updates.
+Both current builds use the official **Stable Mod API** for better long-term compatibility with future game updates.
 
 For most players, the native in-game version is recommended. The HTML Report version is available as an alternative browser-based report.
 
@@ -14,8 +14,10 @@ For most players, the native in-game version is recommended. The HTML Report ver
 
 | Teamfight Manager 2 version | Mod version | Build | Status |
 | --- | ---: | --- | --- |
-| 0.5.7 | [v2.1.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7) | Chief Scout: Best Player Finder | Current / recommended |
-| 0.5.7 | [v2.2.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7) | Chief Scout: HTML Report | Current / alternative |
+| 0.6.0 | [v2.3.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.3.0-tfm2-0.6.0) | Chief Scout: Best Player Finder | Current / recommended |
+| 0.6.0 | [v2.3.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.3.0-tfm2-0.6.0) | Chief Scout: HTML Report | Current / alternative |
+| 0.5.7 | [v2.1.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7) | Chief Scout: Best Player Finder | Archived |
+| 0.5.7 | [v2.2.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7) | Chief Scout: HTML Report | Archived |
 | 0.5.5 | [v2.0.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.0.0-tfm2-0.5.5) | Chief Scout: Best Player Finder | Archived |
 | 0.5.5 | [v2.1.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/HTML_v.2.1.0-tfm2-0.5.5) | Chief Scout: HTML Report | Archived |
 | 0.5.5 | [v2.0.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.0.0-tfm2-0.5.5) | Chief Scout: HTML Report | Archived |
@@ -26,13 +28,13 @@ For most players, the native in-game version is recommended. The HTML Report ver
 | 0.4.13 | [v1.0.5](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.1.0.5-tfm2-0.4.13) | Chief Scout: HTML Report | Archived |
 | 0.4.12 rollback | [v1.0.4](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v1.0.4-tfm2-0.4.12) | Legacy Chief Scout | Stable legacy build |
 
-## Chief Scout: Best Player Finder v2.1.0
+## Chief Scout: Best Player Finder v2.3.0
 
-**Chief Scout: Best Player Finder v2.1.0** is the current main native in-game version for **Teamfight Manager 2 0.5.7**.
+**Chief Scout: Best Player Finder v2.3.0** is the current main native in-game version for **Teamfight Manager 2 0.6.0**.
 
 This version opens directly inside the game and does not require a browser report.
 
-The current version has been migrated to the new **Stable Mod API**, with a reworked internal data and UI runtime intended to improve compatibility with future game updates.
+The current build uses the official **Stable Mod API**. For TFM2 0.6.0, the Chief Scout launcher was updated for the game's new main menu layout and moved into the new Recruitment menu structure.
 
 It includes:
 
@@ -61,19 +63,19 @@ Chief Scout now provides its own player profile popup instead.
 
 Player signing and contract negotiations still use the game's normal recruitment and player management screens.
 
-Use this version if you are playing on **Teamfight Manager 2 0.5.7** and want the main in-game Chief Scout panel.
+Use this version if you are playing on **Teamfight Manager 2 0.6.0** and want the main in-game Chief Scout panel.
 
 Release:
 
-[Download Chief Scout v2.1.0 for TFM2 0.5.7](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7)
+[Download Chief Scout v2.3.0 for TFM2 0.6.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.3.0-tfm2-0.6.0)
 
-## Chief Scout: HTML Report v2.2.0
+## Chief Scout: HTML Report v2.3.0
 
-**Chief Scout: HTML Report v2.2.0** is the current browser-based report version for **Teamfight Manager 2 0.5.7**.
+**Chief Scout: HTML Report v2.3.0** is the current browser-based report version for **Teamfight Manager 2 0.6.0**.
 
 This version uses a small in-game launcher and opens the full scouting report as a local HTML page in your browser.
 
-The in-game launcher and data layer have been migrated to the new **Stable Mod API**. The report itself keeps the same browser-based interface and scouting workflow.
+The in-game launcher and data layer use the official **Stable Mod API**. For TFM2 0.6.0, the launcher was updated for the game's new main menu layout and moved into the new Recruitment menu structure. The browser report itself keeps the same interface and scouting workflow.
 
 The HTML Report includes the same main scouting logic as the native version, together with a larger browser-based interface:
 
@@ -99,7 +101,7 @@ Use this version if you prefer the larger browser report workflow, wide tables, 
 
 Release:
 
-[Download Chief Scout: HTML Report v2.2.0 for TFM2 0.5.7](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7)
+[Download Chief Scout: HTML Report v2.3.0 for TFM2 0.6.0](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.3.0-tfm2-0.6.0)
 
 ## Which version should I use?
 
@@ -113,11 +115,31 @@ Do not install or enable both versions at the same time. They use separate mod I
 
 Older Chief Scout builds are kept for compatibility and archive purposes.
 
+### TFM2 0.5.7 / Best Player Finder v2.1.0
+
+This is the previous native Chief Scout build for **Teamfight Manager 2 0.5.7**.
+
+Use the current v2.3.0 build unless you specifically need the older game version.
+
+Release:
+
+[Download Chief Scout v2.1.0 for TFM2 0.5.7](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7)
+
+### TFM2 0.5.7 / HTML Report v2.2.0
+
+This is the previous HTML Report build for **Teamfight Manager 2 0.5.7**.
+
+Use the current v2.3.0 HTML Report unless you specifically need the older game version.
+
+Release:
+
+[Download Chief Scout: HTML Report v2.2.0 for TFM2 0.5.7](https://github.com/itSFox/TFM2-Chief-Scout/releases/tag/v.2.1.0-tfm2-0.5.7)
+
 ### TFM2 0.5.5 / Best Player Finder v2.0.0
 
 This is the previous native Chief Scout build for **Teamfight Manager 2 0.5.5**.
 
-Use the current v2.1.0 build unless you specifically need the older game version.
+Use the current v2.3.0 build unless you specifically need the older game version.
 
 Release:
 
@@ -127,7 +149,7 @@ Release:
 
 This is the previous HTML Report build for **Teamfight Manager 2 0.5.5**.
 
-Use the current v2.2.0 HTML Report unless you specifically need the older game version.
+Use the current v2.3.0 HTML Report unless you specifically need the older game version.
 
 Release:
 
@@ -219,9 +241,9 @@ Use manual GitHub releases only if you need a specific mod build for a specific 
 6. Use the browser report to search, filter, sort, compare scorers, and inspect recommendations.
 7. Hover over the info button next to a player's name to preview their stats, or click it to pin the stats card.
 
-## Manual installation: Chief Scout v2.1.0 / TFM2 0.5.7
+## Manual installation: Chief Scout v2.3.0 / TFM2 0.6.0
 
-1. Download the **Chief Scout v2.1.0 for TFM2 0.5.7** native release archive.
+1. Download the **Chief Scout v2.3.0 for TFM2 0.6.0** native release archive.
 2. Open the Teamfight Manager 2 game folder.
 3. Open or create the `mods` folder.
 4. Extract the `scout_assistant` folder into `mods`.
@@ -232,9 +254,9 @@ Final path should look like this:
 
 Do not rename the `scout_assistant` folder.
 
-## Manual installation: Chief Scout HTML Report v2.2.0 / TFM2 0.5.7
+## Manual installation: Chief Scout HTML Report v2.3.0 / TFM2 0.6.0
 
-1. Download the **Chief Scout: HTML Report v2.2.0 for TFM2 0.5.7** release archive.
+1. Download the **Chief Scout: HTML Report v2.3.0 for TFM2 0.6.0** release archive.
 2. Open the Teamfight Manager 2 game folder.
 3. Open or create the `mods` folder.
 4. Extract the `scout_assistant_html` folder into `mods`.
@@ -294,11 +316,11 @@ The main native Chief Scout remains available for tighter in-game integration, w
 
 ## Stable Mod API
 
-The current 0.5.7 builds use the official **Stable Mod API** instead of the older classic native API.
+The current 0.6.0 builds use the official **Stable Mod API** instead of the older classic native API.
 
-This required a substantial internal rewrite of the data loading and UI runtime, but should make Chief Scout significantly less sensitive to normal game updates and native ABI changes.
+The Stable Mod API makes Chief Scout significantly less sensitive to native ABI changes between game updates. The 0.6.0 compatibility update still required a small UI integration change because the game's main menu layout changed.
 
-The scoring system itself was not changed as part of this migration.
+The scoring system itself was not changed as part of this compatibility update.
 
 ## Source code
 
